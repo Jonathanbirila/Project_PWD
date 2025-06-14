@@ -7,6 +7,6 @@
     <title>Project PWD</title>
 </head>
 <body>
-    Landing PAGE
+    <h1>Landing PAGE</h1>
 </body>
 </html>
